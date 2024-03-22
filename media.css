@@ -1,0 +1,38 @@
+/*headings*/
+.heading{
+    font-size: 2,5rem;
+}
+
+.input{
+    width: 100%;
+}
+#msg{
+    width: 80%;
+}
+#send{
+    width: 50%;
+}
+#portfolio{
+    flex-direction: column;
+    align-items: center;
+}
+
+#services{
+    flex-direction: column;
+    align-items: center;
+}
+
+/*recents*/
+.co-recent{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+.update{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
